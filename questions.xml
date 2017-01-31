@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions SYSTEM "questions.dtd">
+<questions>
+	<question id="preg001">
+		<type>text</type>
+		<sentence>1. ¿A qué compañía pertenece el procesador Xeon E7?</sentence>
+		<answer>Intel</answer>
+	</question>
+	<question id="preg002">
+		<type>radio</type>
+		<sentence>2. ¿Virtualbox es un programa de realidad virtual?</sentence>
+		<option>a) Verdadero</option>
+		<option>b) Falso</option>
+		<answer>0</answer>
+	</question>
+	<question id="preg003">
+		<type>text</type>
+		<sentence>3. ¿Indica el nombre del antivirus que lleva instalado Windows 10 por defecto?</sentence>
+		<answer>Defender</answer>
+	</question>
+	<question id="preg004">
+		<type>select</type>
+		<sentence>4. ¿Es aconsejable realizar copias de seguridad de tu equipo?</sentence>
+		<option>a) A veces, cuando te acuerdas</option>
+		<option>b) Sí, siempre que se pueda</option>
+		<option>c) No es necesario, a mi no me pasará nada, yo controlo todo</option>
+		<answer>1</answer>
+	</question>
+	 <question id="preg005">
+		<type>multiple</type>
+		<sentence>5. Marca los modelos de memoria RAM que se pueden comprar actualmente en el mercado:</sentence>
+		<option>a) DDR2</option>
+		<option>b) DDR4</option>
+		<option>c) DDR6</option>
+		<answer>0</answer>
+		<answer>1</answer>
+	</question>
+	<question id="preg006">
+		<type>radio</type>
+		<sentence>6. ¿Cuál de las siguientes opciones es una fuente de interferencia en un cable UTP?</sentence>
+		<option>a) Cable de fibra óptica</option>
+		<option>b) Cable coaxial</option>
+		<option>c) Hub</option>
+		<option>d) Cable eléctrico</option>
+		<answer>3</answer>
+	</question>
+	<question id="preg007">
+		<type>select</type>
+		<sentence>7. ¿Cómo se denomina el ordenador en el cual se encuentran las páginas web?</sentence>
+		<option>a) Ordenador web</option>
+		<option>b) Servidor</option>
+		<option>c) Administrador</option>
+		<answer>1</answer>
+	</question>
+	<question id="preg008">
+		<type>checkbox</type>
+		<sentence>8. Selecciona los elementos que te puedes encontrar en una red:</sentence>
+		<option>a) Hub</option>
+		<option>b) Router</option>
+		<option>c) Switch</option>
+		<option>d) Ninguno de los anteriores</option>
+		<answer>0</answer>
+		<answer>1</answer>
+		<answer>2</answer>
+	</question>
+	<question id="preg009">
+		<type>multiple</type>
+		<sentence>9. Cuando se elimina un documento... (marca la opción u opciones correctas)</sentence>
+		<option>a) Ya es imposible recuperarlo</option>
+		<option>b) Se puede recuperar desde la papelera de reciclaje</option>
+		<option>c) Permanece en la papelera de reciclaje hasta que se vacía</option>
+		<option>c) Todas las opciones son incorrectas</option>
+		<answer>1</answer>
+		<answer>2</answer>
+	</question>
+	<question id="preg010">
+		<type>checkbox</type>
+		<sentence>10. En Impress podemos exportar nuestra presentación en los siguientes formatos, marque los correctos:</sentence>
+		<option>a) RAR</option>
+		<option>b) PDF</option>
+		<option>c) XLS</option>
+		<option>d) SWF</option>
+		<answer>1</answer>
+		<answer>4</answer>
+	</question>
+</questions>
